@@ -1,0 +1,23 @@
+com/google/flutter/plugins/audiofileplayer/LocalManagedMediaPlayer.java
+ com.google.flutter.plugins.audiofileplayer.LocalManagedMediaPlayer
+com/google/flutter/plugins/audiofileplayer/AudiofileplayerService.java
+ com.google.flutter.plugins.audiofileplayer.AudiofileplayerService
+ com.google.flutter.plugins.audiofileplayer.AudiofileplayerService$MediaSessionCallback
+ com.google.flutter.plugins.audiofileplayer.AudiofileplayerService$ServiceListener
+com/google/flutter/plugins/audiofileplayer/ManagedMediaPlayer.java
+ com.google.flutter.plugins.audiofileplayer.ManagedMediaPlayer
+ com.google.flutter.plugins.audiofileplayer.ManagedMediaPlayer$1
+ com.google.flutter.plugins.audiofileplayer.ManagedMediaPlayer$OnSeekCompleteListener
+ com.google.flutter.plugins.audiofileplayer.ManagedMediaPlayer$PauseAtEndpointRunnable
+com/google/flutter/plugins/audiofileplayer/RemoteManagedMediaPlayer.java
+ com.google.flutter.plugins.audiofileplayer.RemoteManagedMediaPlayer
+ com.google.flutter.plugins.audiofileplayer.RemoteManagedMediaPlayer$OnRemoteLoadListener
+com/google/flutter/plugins/audiofileplayer/BuildConfig.java
+ com.google.flutter.plugins.audiofileplayer.BuildConfig
+com/google/flutter/plugins/audiofileplayer/BufferMediaDataSource.java
+ com.google.flutter.plugins.audiofileplayer.BufferMediaDataSource
+com/google/flutter/plugins/audiofileplayer/AudiofileplayerPlugin.java
+ com.google.flutter.plugins.audiofileplayer.AudiofileplayerPlugin
+ com.google.flutter.plugins.audiofileplayer.AudiofileplayerPlugin$1
+ com.google.flutter.plugins.audiofileplayer.AudiofileplayerPlugin$2
+ com.google.flutter.plugins.audiofileplayer.AudiofileplayerPlugin$LifecycleCallbacks

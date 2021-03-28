@@ -1,0 +1,4 @@
+#Wed Mar 10 15:30:19 WEST 2021
+base.0=/goinfre/anel-bou/AndroidStudioProjects/xylophone/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
